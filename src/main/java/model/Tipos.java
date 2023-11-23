@@ -1,0 +1,5 @@
+package model;
+
+public enum Tipos {
+    HEMOGRAMA, RADIOGRAFIA, UROANALISIS, TOMOGRAFIA, RESONANCIA;
+}
